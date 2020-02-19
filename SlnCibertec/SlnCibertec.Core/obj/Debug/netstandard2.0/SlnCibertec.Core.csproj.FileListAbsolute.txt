@@ -1,0 +1,18 @@
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Core\bin\Debug\netstandard2.0\SlnCibertec.Core.deps.json
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Core\bin\Debug\netstandard2.0\SlnCibertec.Core.dll
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Core\bin\Debug\netstandard2.0\SlnCibertec.Core.pdb
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Core\obj\Debug\netstandard2.0\SlnCibertec.Core.csprojAssemblyReference.cache
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Core\obj\Debug\netstandard2.0\SlnCibertec.Core.csproj.CoreCompileInputs.cache
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Core\obj\Debug\netstandard2.0\SlnCibertec.Core.AssemblyInfoInputs.cache
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Core\obj\Debug\netstandard2.0\SlnCibertec.Core.AssemblyInfo.cs
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Core\obj\Debug\netstandard2.0\SlnCibertec.Core.dll
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Core\obj\Debug\netstandard2.0\SlnCibertec.Core.pdb
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Core\bin\Debug\netstandard2.0\SlnCibertec.Core.deps.json
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Core\bin\Debug\netstandard2.0\SlnCibertec.Core.dll
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Core\bin\Debug\netstandard2.0\SlnCibertec.Core.pdb
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Core\obj\Debug\netstandard2.0\SlnCibertec.Core.csprojAssemblyReference.cache
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Core\obj\Debug\netstandard2.0\SlnCibertec.Core.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Core\obj\Debug\netstandard2.0\SlnCibertec.Core.AssemblyInfoInputs.cache
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Core\obj\Debug\netstandard2.0\SlnCibertec.Core.AssemblyInfo.cs
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Core\obj\Debug\netstandard2.0\SlnCibertec.Core.dll
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Core\obj\Debug\netstandard2.0\SlnCibertec.Core.pdb

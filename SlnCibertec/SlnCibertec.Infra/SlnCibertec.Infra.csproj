@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20191206014156_InitialMigration.cs" />
+    <Compile Remove="Migrations\20191206015019_InitialMigration.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.6" />
+    <PackageReference Include="microsoft.entityframeworkcore.sqlserver" Version="2.2.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SlnCibertec.Core\SlnCibertec.Core.csproj" />
+  </ItemGroup>
+
+</Project>

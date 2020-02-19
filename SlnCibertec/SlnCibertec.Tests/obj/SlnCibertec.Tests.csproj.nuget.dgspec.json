@@ -1,0 +1,207 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\xM4riuSx\\Desktop\\SlnCibertec\\SlnCibertec.Tests\\SlnCibertec.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\xM4riuSx\\Desktop\\SlnCibertec\\SlnCibertec.Core\\SlnCibertec.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\xM4riuSx\\Desktop\\SlnCibertec\\SlnCibertec.Core\\SlnCibertec.Core.csproj",
+        "projectName": "SlnCibertec.Core",
+        "projectPath": "C:\\Users\\xM4riuSx\\Desktop\\SlnCibertec\\SlnCibertec.Core\\SlnCibertec.Core.csproj",
+        "packagesPath": "C:\\Users\\xM4riuSx\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xM4riuSx\\Desktop\\SlnCibertec\\SlnCibertec.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\xM4riuSx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "microsoft.entityframeworkcore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\xM4riuSx\\Desktop\\SlnCibertec\\SlnCibertec.Infra\\SlnCibertec.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\xM4riuSx\\Desktop\\SlnCibertec\\SlnCibertec.Infra\\SlnCibertec.Infra.csproj",
+        "projectName": "SlnCibertec.Infra",
+        "projectPath": "C:\\Users\\xM4riuSx\\Desktop\\SlnCibertec\\SlnCibertec.Infra\\SlnCibertec.Infra.csproj",
+        "packagesPath": "C:\\Users\\xM4riuSx\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xM4riuSx\\Desktop\\SlnCibertec\\SlnCibertec.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\xM4riuSx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\xM4riuSx\\Desktop\\SlnCibertec\\SlnCibertec.Core\\SlnCibertec.Core.csproj": {
+                "projectPath": "C:\\Users\\xM4riuSx\\Desktop\\SlnCibertec\\SlnCibertec.Core\\SlnCibertec.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "microsoft.entityframeworkcore.sqlserver": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\xM4riuSx\\Desktop\\SlnCibertec\\SlnCibertec.Tests\\SlnCibertec.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\xM4riuSx\\Desktop\\SlnCibertec\\SlnCibertec.Tests\\SlnCibertec.Tests.csproj",
+        "projectName": "SlnCibertec.Tests",
+        "projectPath": "C:\\Users\\xM4riuSx\\Desktop\\SlnCibertec\\SlnCibertec.Tests\\SlnCibertec.Tests.csproj",
+        "packagesPath": "C:\\Users\\xM4riuSx\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xM4riuSx\\Desktop\\SlnCibertec\\SlnCibertec.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\xM4riuSx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\xM4riuSx\\Desktop\\SlnCibertec\\SlnCibertec.Core\\SlnCibertec.Core.csproj": {
+                "projectPath": "C:\\Users\\xM4riuSx\\Desktop\\SlnCibertec\\SlnCibertec.Core\\SlnCibertec.Core.csproj"
+              },
+              "C:\\Users\\xM4riuSx\\Desktop\\SlnCibertec\\SlnCibertec.Infra\\SlnCibertec.Infra.csproj": {
+                "projectPath": "C:\\Users\\xM4riuSx\\Desktop\\SlnCibertec\\SlnCibertec.Infra\\SlnCibertec.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "microsoft.entityframeworkcore.inmemory": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "microsoft.entityframeworkcore.sqlserver": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

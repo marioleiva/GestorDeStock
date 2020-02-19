@@ -1,0 +1,24 @@
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Infra\bin\Debug\netstandard2.0\SlnCibertec.Infra.deps.json
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Infra\bin\Debug\netstandard2.0\SlnCibertec.Infra.dll
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Infra\bin\Debug\netstandard2.0\SlnCibertec.Infra.pdb
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Infra\bin\Debug\netstandard2.0\SlnCibertec.Core.dll
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Infra\bin\Debug\netstandard2.0\SlnCibertec.Core.pdb
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Infra\obj\Debug\netstandard2.0\SlnCibertec.Infra.csprojAssemblyReference.cache
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Infra\obj\Debug\netstandard2.0\SlnCibertec.Infra.csproj.CoreCompileInputs.cache
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Infra\obj\Debug\netstandard2.0\SlnCibertec.Infra.AssemblyInfoInputs.cache
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Infra\obj\Debug\netstandard2.0\SlnCibertec.Infra.AssemblyInfo.cs
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Infra\obj\Debug\netstandard2.0\SlnCibertec.Infra.csproj.CopyComplete
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Infra\obj\Debug\netstandard2.0\SlnCibertec.Infra.dll
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Infra\obj\Debug\netstandard2.0\SlnCibertec.Infra.pdb
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Infra\bin\Debug\netstandard2.0\SlnCibertec.Infra.deps.json
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Infra\bin\Debug\netstandard2.0\SlnCibertec.Infra.dll
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Infra\bin\Debug\netstandard2.0\SlnCibertec.Infra.pdb
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Infra\bin\Debug\netstandard2.0\SlnCibertec.Core.dll
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Infra\bin\Debug\netstandard2.0\SlnCibertec.Core.pdb
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Infra\obj\Debug\netstandard2.0\SlnCibertec.Infra.csprojAssemblyReference.cache
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Infra\obj\Debug\netstandard2.0\SlnCibertec.Infra.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Infra\obj\Debug\netstandard2.0\SlnCibertec.Infra.AssemblyInfoInputs.cache
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Infra\obj\Debug\netstandard2.0\SlnCibertec.Infra.AssemblyInfo.cs
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Infra\obj\Debug\netstandard2.0\SlnCibertec.Infra.csproj.CopyComplete
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Infra\obj\Debug\netstandard2.0\SlnCibertec.Infra.dll
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Infra\obj\Debug\netstandard2.0\SlnCibertec.Infra.pdb

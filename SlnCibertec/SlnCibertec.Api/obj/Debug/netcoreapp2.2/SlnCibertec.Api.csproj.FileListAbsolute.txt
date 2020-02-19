@@ -1,0 +1,38 @@
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Api\bin\Debug\netcoreapp2.2\SlnCibertec.Api.deps.json
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Api\bin\Debug\netcoreapp2.2\SlnCibertec.Api.runtimeconfig.json
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Api\bin\Debug\netcoreapp2.2\SlnCibertec.Api.runtimeconfig.dev.json
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Api\bin\Debug\netcoreapp2.2\SlnCibertec.Api.dll
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Api\bin\Debug\netcoreapp2.2\SlnCibertec.Api.pdb
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Api\bin\Debug\netcoreapp2.2\SlnCibertec.Core.dll
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Api\bin\Debug\netcoreapp2.2\SlnCibertec.Infra.dll
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Api\bin\Debug\netcoreapp2.2\SlnCibertec.Infra.pdb
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Api\bin\Debug\netcoreapp2.2\SlnCibertec.Core.pdb
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Api\obj\Debug\netcoreapp2.2\SlnCibertec.Api.csprojAssemblyReference.cache
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Api\obj\Debug\netcoreapp2.2\SlnCibertec.Api.csproj.CoreCompileInputs.cache
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Api\obj\Debug\netcoreapp2.2\SlnCibertec.Api.RazorAssemblyInfo.cache
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Api\obj\Debug\netcoreapp2.2\SlnCibertec.Api.RazorAssemblyInfo.cs
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Api\obj\Debug\netcoreapp2.2\SlnCibertec.Api.AssemblyInfoInputs.cache
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Api\obj\Debug\netcoreapp2.2\SlnCibertec.Api.AssemblyInfo.cs
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Api\obj\Debug\netcoreapp2.2\SlnCibertec.Api.RazorTargetAssemblyInfo.cache
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Api\obj\Debug\netcoreapp2.2\SlnCibertec.Api.csproj.CopyComplete
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Api\obj\Debug\netcoreapp2.2\SlnCibertec.Api.dll
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Api\obj\Debug\netcoreapp2.2\SlnCibertec.Api.pdb
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Api\bin\Debug\netcoreapp2.2\SlnCibertec.Api.deps.json
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Api\bin\Debug\netcoreapp2.2\SlnCibertec.Api.runtimeconfig.json
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Api\bin\Debug\netcoreapp2.2\SlnCibertec.Api.runtimeconfig.dev.json
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Api\bin\Debug\netcoreapp2.2\SlnCibertec.Api.dll
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Api\bin\Debug\netcoreapp2.2\SlnCibertec.Api.pdb
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Api\bin\Debug\netcoreapp2.2\SlnCibertec.Core.dll
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Api\bin\Debug\netcoreapp2.2\SlnCibertec.Infra.dll
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Api\bin\Debug\netcoreapp2.2\SlnCibertec.Infra.pdb
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Api\bin\Debug\netcoreapp2.2\SlnCibertec.Core.pdb
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Api\obj\Debug\netcoreapp2.2\SlnCibertec.Api.csprojAssemblyReference.cache
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Api\obj\Debug\netcoreapp2.2\SlnCibertec.Api.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Api\obj\Debug\netcoreapp2.2\SlnCibertec.Api.RazorAssemblyInfo.cache
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Api\obj\Debug\netcoreapp2.2\SlnCibertec.Api.RazorAssemblyInfo.cs
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Api\obj\Debug\netcoreapp2.2\SlnCibertec.Api.AssemblyInfoInputs.cache
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Api\obj\Debug\netcoreapp2.2\SlnCibertec.Api.AssemblyInfo.cs
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Api\obj\Debug\netcoreapp2.2\SlnCibertec.Api.RazorTargetAssemblyInfo.cache
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Api\obj\Debug\netcoreapp2.2\SlnCibertec.Api.csproj.CopyComplete
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Api\obj\Debug\netcoreapp2.2\SlnCibertec.Api.dll
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Api\obj\Debug\netcoreapp2.2\SlnCibertec.Api.pdb

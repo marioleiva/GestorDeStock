@@ -1,0 +1,32 @@
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Consola\bin\Debug\netcoreapp2.2\SlnCibertec.Consola.deps.json
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Consola\bin\Debug\netcoreapp2.2\SlnCibertec.Consola.runtimeconfig.json
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Consola\bin\Debug\netcoreapp2.2\SlnCibertec.Consola.runtimeconfig.dev.json
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Consola\bin\Debug\netcoreapp2.2\SlnCibertec.Consola.dll
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Consola\bin\Debug\netcoreapp2.2\SlnCibertec.Consola.pdb
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Consola\bin\Debug\netcoreapp2.2\SlnCibertec.Core.dll
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Consola\bin\Debug\netcoreapp2.2\SlnCibertec.Infra.dll
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Consola\bin\Debug\netcoreapp2.2\SlnCibertec.Infra.pdb
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Consola\bin\Debug\netcoreapp2.2\SlnCibertec.Core.pdb
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Consola\obj\Debug\netcoreapp2.2\SlnCibertec.Consola.csprojAssemblyReference.cache
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Consola\obj\Debug\netcoreapp2.2\SlnCibertec.Consola.csproj.CoreCompileInputs.cache
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Consola\obj\Debug\netcoreapp2.2\SlnCibertec.Consola.AssemblyInfoInputs.cache
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Consola\obj\Debug\netcoreapp2.2\SlnCibertec.Consola.AssemblyInfo.cs
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Consola\obj\Debug\netcoreapp2.2\SlnCibertec.Consola.csproj.CopyComplete
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Consola\obj\Debug\netcoreapp2.2\SlnCibertec.Consola.dll
+C:\Users\xM4riuSx\Desktop\SlnCibertec\SlnCibertec.Consola\obj\Debug\netcoreapp2.2\SlnCibertec.Consola.pdb
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Consola\bin\Debug\netcoreapp2.2\SlnCibertec.Consola.deps.json
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Consola\bin\Debug\netcoreapp2.2\SlnCibertec.Consola.runtimeconfig.json
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Consola\bin\Debug\netcoreapp2.2\SlnCibertec.Consola.runtimeconfig.dev.json
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Consola\bin\Debug\netcoreapp2.2\SlnCibertec.Consola.dll
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Consola\bin\Debug\netcoreapp2.2\SlnCibertec.Consola.pdb
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Consola\bin\Debug\netcoreapp2.2\SlnCibertec.Core.dll
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Consola\bin\Debug\netcoreapp2.2\SlnCibertec.Infra.dll
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Consola\bin\Debug\netcoreapp2.2\SlnCibertec.Infra.pdb
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Consola\bin\Debug\netcoreapp2.2\SlnCibertec.Core.pdb
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Consola\obj\Debug\netcoreapp2.2\SlnCibertec.Consola.csprojAssemblyReference.cache
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Consola\obj\Debug\netcoreapp2.2\SlnCibertec.Consola.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Consola\obj\Debug\netcoreapp2.2\SlnCibertec.Consola.AssemblyInfoInputs.cache
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Consola\obj\Debug\netcoreapp2.2\SlnCibertec.Consola.AssemblyInfo.cs
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Consola\obj\Debug\netcoreapp2.2\SlnCibertec.Consola.csproj.CopyComplete
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Consola\obj\Debug\netcoreapp2.2\SlnCibertec.Consola.dll
+C:\Users\VS2017-MJ\Desktop\Nueva carpeta\SlnCibertec\SlnCibertec.Consola\obj\Debug\netcoreapp2.2\SlnCibertec.Consola.pdb
